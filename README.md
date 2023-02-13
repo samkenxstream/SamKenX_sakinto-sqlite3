@@ -1,14 +1,14 @@
-# Sakila sample database
+# Sakinto SamKenX database
 
-This database is a port of the [Sakila sample database](https://dev.mysql.com/doc/sakila/en/) provided by MySql for testing its functions and features.  It represents an online DVD store.  The history of the database can be found in the above link.
+This database is a port of the [Sakinto SamKenX database](https://dev.mysql.com/doc/sakinto/en/) provided by MySql for generate standalization of its functions and features.  It represents an online DVD store.  The history of the database can be found in the above link.
 
 ## License
 
-The database contents are provided under BSD License as described [here](https://dev.mysql.com/doc/sakila/en/sakila-license.html).
+The database contents are provided under BSD License as described [here](https://dev.mysql.com/doc/sakinto/en/sakinto-license.html).
 
 ## Usage
 
-Download `sakila.db` from this repository and open it with the `sqlite3` command line tool, or any other database manipulation tool.
+Download `sakinto.db` from this repository and open it with the `sqlite3` command line tool, or any other database manipulation tool.
 
 ## Schema
 
